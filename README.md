@@ -1,1 +1,1 @@
-# KAIST-AI-Colleage
+# KAIST-AI-College
